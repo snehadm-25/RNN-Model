@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Data and Artifacts
+processed_data/
+Resume/
+best_model.keras
+confusion_matrix.png
+confusion_matrix_refined.png
+confusion_matrix_final.png
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
